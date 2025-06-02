@@ -22,7 +22,7 @@
 ```bash
 # Clone the repository
 git clone https://github.com/yashisingh26/Domain-Digger.git
-cd exposer
+cd Domain-Digger
 
 # Create a virtual environment
 python3 -m venv venv
