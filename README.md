@@ -7,7 +7,7 @@
 
 ## ✨ Features
 
-- 🔎 **Fetch subdomains** from [crt.sh](https://crt.sh)
+- 🔎 **Fetch subdomains** from [crt.sh]
 - 🌐 **Resolve domains** to IP addresses using `gevent`
 - 📤 **Flexible Output Options**:
   - ✅ Resolved IPs (for tools like Masscan)
